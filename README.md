@@ -1,5 +1,5 @@
 # TeamsTable
-Creating the project to use React without Hooks
+Creating the project to use React without Hooks <br/>
 This project is just to see a table of brazilians teams
 
 ## Install
